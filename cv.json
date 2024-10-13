@@ -212,6 +212,14 @@
   ],
   "projects": [
     {
+      "name": "IAM",
+      "isActive": true,
+      "description": "Access management application",
+      "highlights": ["APEX 24.1", "Oracle 19c", "AOP"],
+      "url": "https://www.gov.ky/",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
       "name": "FAS",
       "isActive": true,
       "description": "Application for the Department of Financial Assistance of the Cayman Island Goverment",
