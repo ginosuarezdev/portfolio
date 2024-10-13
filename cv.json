@@ -1,0 +1,286 @@
+{
+  "basics": {
+    "name": "Gino Suarez",
+    "label": "Certified Oracle APEX Developer",
+    "image": "/me.webp",
+    "email": "contact@gsuarez.dev",
+    "phone": "+1 5145546601",
+    "url": "https://ginosuarez.dev",
+    "summary": "As an Oracle APEX Developer, I specialize in transforming ideas into fully functional, data-driven applications. My current focus is on Oracle APEX, PL/SQL, and JavaScript, building dynamic, scalable applications for businesses worldwide. With over 16 years of experience in IT and 6+ in APEX , including working remotely with global teams, I am adept at integrating APEX with modern web technologies and delivering solutions that drive business success.",
+    "location": {
+      "address": "",
+      "postalCode": "J1G3K7",
+      "city": "Sherbrooke",
+      "countryCode": "CA",
+      "region": "Canada"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://www.linkedin.com/in/ginosuarez/"
+      },
+      {
+        "network": "GitHub",
+        "username": "midudev",
+        "url": "https://github.com/ginosuarezdev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Insum Solutions",
+      "position": "Application Engineer",
+      "url": "https://insum.talan.com/",
+      "startDate": "2018-02-01",
+      "endDate": null,
+      "summary": "As an Application Engineer at Insum, I design and develop Oracle APEX applications that meet clients' business needs. I work closely with stakeholders to turn requirements into scalable solutions, using Oracle APEX, PL/SQL, and JavaScript. My role includes optimizing database performance, integrating systems, and delivering efficient, user-friendly applications that streamline processes and enhance operations.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Estilos",
+      "position": "Lead Full Stack Developer",
+      "url": "https://www.estilos.com.pe/",
+      "startDate": "2012-09-01",
+      "endDate": "2018-01-01",
+      "summary": "At Estilos, I progressed from Developer to Database Administrator, eventually becoming Head of Software Development. In these roles, I provided technical leadership, optimized database performance, and led a team to enhance and support the ERP system. I collaborated with stakeholders to define system requirements and develop solutions that streamlined back-office operations, aligning with business goals.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "College of Architects of Lima",
+      "position": "Full Stack Developer",
+      "startDate": "2010-04-01",
+      "endDate": "2012-01-01",
+      "summary": "At CAP Lima, I contributed to the development and migration of systems to .NET technologies, while also supporting legacy applications. My responsibilities included implementing new features, resolving bugs, and ensuring a smooth transition to modern platforms, all while maintaining and enhancing existing systems.",
+      "highlights": ["Started the company"],
+      "url": "https://limacap.org/"
+    },
+    {
+      "name": "CSI",
+      "position": "Full Stack Developer",
+      "startDate": "2008-07-01",
+      "endDate": "2009-11-01",
+      "summary": "At CSI, I was involved in the development of multiple products, where I designed and developed features that aligned with bussiness needs. I utilized a range of technologies, from relational databases to distributed frameworks, ensuring robust and effective solutions that enhanced product functionality.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Autodema",
+      "position": "Full Stack Developer",
+      "startDate": "2006-05-01",
+      "endDate": "2007-12-01",
+      "summary": "I supported legacy applications, developed the institution's first website, and facilitated the integration of local systems with new technologies and government-implemented applications, ensuring seamless functionality and enhanced service delivery.",
+      "highlights": ["Started the company"],
+      "url": "https://www.autodema.gob.pe/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CSI",
+      "position": "Full Stack Developer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "San Jose Oriol Institute",
+      "url": "https://sanjoseoriol.edu.pe/",
+      "area": "Software Developer",
+      "studyType": "Bachelor",
+      "startDate": "2002-01-01",
+      "endDate": "2004-02-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "PLSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "PLSQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "FAS",
+      "isActive": true,
+      "description": "Application for the Department of Financial Assistance of the Cayman Island Goverment",
+      "highlights": ["APEX 24.1", "Oracle 19c", "AOP"],
+      "url": "https://www.gov.ky/"
+    },
+    {
+      "name": "iTravelOK",
+      "isActive": true,
+      "description": "Travel and Expense Reimbursement system for the Office of Management & Enterprise Services of Oklahoma ",
+      "highlights": ["APEX 24.1", "Oracle 19c", "AOP"],
+      "url": "https://oklahoma.gov/"
+    },
+    {
+      "name": "Power Design Inc",
+      "isActive": false,
+      "description": "Staff augmentation, Power Design is a leading design build contractor working on complex projects, delivering services across multiple trades.",
+      "highlights": ["APEX 23.2", "Oracle 19c"],
+      "url": "https://www.powerdesigninc.us/"
+    },
+    {
+      "name": "EJJIST",
+      "isActive": false,
+      "description": "Migration of an APEX app from 4.1 to 23.2 ",
+      "highlights": ["APEX 23.2", "Oracle 19c"],
+      "url": ""
+    },
+    {
+      "name": "MCW Workforce",
+      "isActive": false,
+      "description": "Workforce budget planning App for the Medical College of Wisconsin",
+      "highlights": ["APEX 24.1", "Oracle 19c"],
+      "url": "https://www.mcw.edu/"
+    },
+    {
+      "name": "TrueQPro by CIS - CRM",
+      "description": "CRM application of CIS",
+      "highlights": ["APEX 21.2", "Oracle 11g"],
+      "url": "https://www.trueqpro.com"
+    },
+    {
+      "name": "Electronic Sizing Tool",
+      "description": "Bug fixing, enhancements and new features for the Electronic Sizing Tool of the LION Protects company",
+      "highlights": ["APEX 21.2", "Oracle 11g"],
+      "url": "https://www.lionprotects.com/"
+    },
+    {
+      "name": "Operations Dashboard",
+      "description": "App to Support the operations and management of freight transportation",
+      "highlights": ["APEX 21.2", "Oracle 11g"],
+      "url": "https://wilsonstrucklines.com/en/"
+    },
+    {
+      "name": "Billing and Inquiries",
+      "description": "Billing and Inquiries application for the Regional Municipality of York",
+      "highlights": ["APEX 5.1", "Oracle 11g"],
+      "url": "https://www.york.ca/environment/water-and-wastewater"
+    },
+    {
+      "name": "Operations & Billing",
+      "description": "Operations and electronic billing for the Medical diagnostic imaging center SEDIMED",
+      "highlights": ["APEX 5.1", "Oracle 11g"],
+      "url": "http://sedimed.com.pe/"
+    },
+    {
+      "name": "Operations",
+      "description": "logistic operations app for biggest Alpaca Textile Group in Peru - Michel Group",
+      "highlights": ["APEX 5.1", "Oracle 11g"],
+      "url": "https://www.michell.com.pe/en/"
+    }
+  ]
+}
